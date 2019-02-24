@@ -6,4 +6,4 @@ Prod: `ionic serve --project=app1 --configuration=production`
 
 Add new application:
 
-`ng g application appName --style=scss -S=true --minimal=true`
+`ng g application appName --style=scss --skipTests=true --minimal=true`
